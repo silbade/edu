@@ -1,12 +1,12 @@
-Quel est le rôle de la solidarité à dans une école supérieure en informatique ? 
+Quel est le rôle de la **solidarité** à dans une école supérieure en informatique ? 
 
-En tant que directeur pédagogique à Epitech Montpellier, ma réponse est la suivante : Le socle d’Epitech, c’est la solidarité, sans solidarité la maison va s’écrouler. Je m’explique ⬇
+En tant que directeur pédagogique à Epitech Montpellier, ma réponse est la suivante : Le socle d’Epitech, c’est la solidarité, sans solidarité la maison va s’écrouler.
 
-🔎 Derrière la solidarité, on retrouve les fondements d’Epitech : soutien, entraide et coopération.
+Derrière la solidarité, on retrouve les fondements d’Epitech : **soutien** , **entraide** et **coopération**.
 
 La pédagogie d’Epitech pousse les étudiants à utiliser ces leviers tout au long de leur scolarité.
 
-❌ A l’opposé s’il n’y a pas de solidarité alors on voit s’installer une compétition malsaine avec trop d’individualisme ce qui augmente le stress et l’anxiété chez les étudiants. On remarque aussi que cela nuit à la cohésion , les étudiants se sentent isolés et même ignorés. Au final, cela affecte l’ambiance générale en créant un climat de méfiance et de division.
+A l’opposé s’il n’y a pas de solidarité alors on voit s’installer une compétition malsaine avec trop d’individualisme ce qui augmente le stress et l’anxiété chez les étudiants. On remarque aussi que cela nuit à la cohésion , les étudiants se sentent isolés et même ignorés. Au final, cela affecte l’ambiance générale en créant un climat de méfiance et de division.
 
 Alors je me suis posé la question des vertus de la solidarité et tout ce que nous faisons déjà :
 
